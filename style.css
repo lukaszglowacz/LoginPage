@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
 
-:root {
-    --font-color: 
-}
-
 body {
     background-color: #342e3c ;
     font-family: 'Poppins', sans-serif;
@@ -126,10 +122,6 @@ input {
     font-family: 'Poppins', sans-serif;
     background-color: #342C3C;
     color: white;
-}
-
-:placeholder-shown {
-    
 }
 
 label {
